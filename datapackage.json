@@ -3,6 +3,7 @@
   "owner_org": "eced41c8-c097-4210-b220-c354fe6ac300", 
   "maintainer": "irakli-mchedlishvili", 
   "groups": [], 
+  "harvest_source_id": "", 
   "relationships_as_object": [], 
   "private": false, 
   "maintainer_email": "Irakli.Mchedlishvili@gatesfoundation.org", 
@@ -13,13 +14,13 @@
   "investment_id": "", 
   "id": "9281ccaf-89a4-464a-88d9-efb41f080237", 
   "metadata_created": "2020-07-10T10:20:41.824300", 
-  "metadata_modified": "2020-07-10T10:21:04.583108", 
+  "metadata_modified": "2020-07-10T10:21:45.756737", 
   "author": null, 
   "author_email": null, 
   "tags": [], 
   "state": "active", 
   "methodology": "", 
-  "version": "1", 
+  "version": "2", 
   "data_sharing_agreement": "", 
   "license_id": "cc-by", 
   "type": "dataset", 
@@ -65,6 +66,7 @@
     "recent": 0
   }, 
   "visibility": "public", 
+  "harvest_source_title": "", 
   "num_resources": 1, 
   "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
   "relationships_as_subject": [], 
@@ -72,8 +74,8 @@
   "geographic_coverage": "", 
   "information_classification": "public-public-external", 
   "locked": false, 
-  "isopen": true, 
   "language": "", 
+  "isopen": true, 
   "url": "", 
   "notes": "Vers2", 
   "license_title": "Creative Commons Attribution", 
@@ -92,5 +94,5 @@
     "id": "eced41c8-c097-4210-b220-c354fe6ac300", 
     "name": "uat-test-1"
   }, 
-  "revision_id": "cd7954a0-893b-46d4-b4b3-599edd9dfdda"
+  "revision_id": "9e8394bc-a160-4010-9590-e49cf5cce5f0"
 }
