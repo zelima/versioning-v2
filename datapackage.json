@@ -13,11 +13,11 @@
   "investment_id": "", 
   "id": "9281ccaf-89a4-464a-88d9-efb41f080237", 
   "metadata_created": "2020-07-10T10:20:41.824300", 
-  "metadata_modified": "2020-07-10T10:21:00.627413", 
+  "metadata_modified": "2020-07-10T10:21:04.583108", 
   "author": null, 
   "author_email": null, 
   "tags": [], 
-  "state": "draft", 
+  "state": "active", 
   "methodology": "", 
   "version": "1", 
   "data_sharing_agreement": "", 
@@ -31,7 +31,7 @@
       "datastore_active": false, 
       "id": "0f994053-a838-4b17-aa99-b4f883929125", 
       "size": 1001336, 
-      "metadata_modified": "2020-07-10T10:21:00.633889", 
+      "metadata_modified": "2020-07-10T10:21:04.589579", 
       "state": "active", 
       "sha256": "d8efc2cbb246ec55f742b01cfcfd9f978479e9a665c280158e6d7fbc4d9f14bf", 
       "lfs_prefix": "uat-test-1/versioning-v2", 
@@ -51,7 +51,7 @@
       "url": "https://dataexchange-pock.gatesfoundation.org/dataset/9281ccaf-89a4-464a-88d9-efb41f080237/resource/0f994053-a838-4b17-aa99-b4f883929125/download/1mb.csv", 
       "last_modified": null, 
       "position": 0, 
-      "revision_id": "9d63745a-aa8d-4fd9-a733-e881094fa128", 
+      "revision_id": "cd7954a0-893b-46d4-b4b3-599edd9dfdda", 
       "resource_type": null
     }
   ], 
@@ -92,5 +92,5 @@
     "id": "eced41c8-c097-4210-b220-c354fe6ac300", 
     "name": "uat-test-1"
   }, 
-  "revision_id": "2b6642da-2728-42b8-83de-6addd7c16e44"
+  "revision_id": "cd7954a0-893b-46d4-b4b3-599edd9dfdda"
 }
