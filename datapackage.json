@@ -1,0 +1,130 @@
+{
+  "harvest_source_url": "", 
+  "maintainer": "irakli-mchedlishvili", 
+  "harvest_source_id": "", 
+  "tag_string": "", 
+  "private": false, 
+  "dataset_date": null, 
+  "internal_contact_point": "", 
+  "harvest_timestamp": "", 
+  "guid": "", 
+  "investment_id": "", 
+  "id": "9281ccaf-89a4-464a-88d9-efb41f080237", 
+  "title": "Versioning V2", 
+  "tags": [], 
+  "state": "draft", 
+  "methodology": "", 
+  "version": "1", 
+  "data_sharing_agreement": "", 
+  "data_expiration_date": null, 
+  "license_id": "cc-by", 
+  "type": "dataset", 
+  "data_privacy_regulated": false, 
+  "publisher": "irakli-mchedlishvili", 
+  "usage_notes": "", 
+  "geographic_level": "global", 
+  "harvest_source_title": "", 
+  "creator_user_id": "1379f24a-30d6-48f2-9c6e-d79551f4364c", 
+  "maintainer_email": "Irakli.Mchedlishvili@gatesfoundation.org", 
+  "geographic_coverage": "", 
+  "expected_refresh_date": null, 
+  "information_classification": "public-public-external", 
+  "locked": false, 
+  "name": "versioning-v2", 
+  "language": "", 
+  "url": "", 
+  "notes": "Vers2", 
+  "owner_org": "eced41c8-c097-4210-b220-c354fe6ac300", 
+  "temporal_coverage": "", 
+  "extras": [
+    {
+      "value": null, 
+      "key": "data_expiration_date"
+    }, 
+    {
+      "value": false, 
+      "key": "data_privacy_regulated"
+    }, 
+    {
+      "value": "", 
+      "key": "data_sharing_agreement"
+    }, 
+    {
+      "value": null, 
+      "key": "dataset_date"
+    }, 
+    {
+      "value": null, 
+      "key": "expected_refresh_date"
+    }, 
+    {
+      "value": "", 
+      "key": "geographic_coverage"
+    }, 
+    {
+      "value": "global", 
+      "key": "geographic_level"
+    }, 
+    {
+      "value": "", 
+      "key": "guid"
+    }, 
+    {
+      "value": "", 
+      "key": "harvest_source_id"
+    }, 
+    {
+      "value": "", 
+      "key": "harvest_source_title"
+    }, 
+    {
+      "value": "", 
+      "key": "harvest_source_url"
+    }, 
+    {
+      "value": "", 
+      "key": "harvest_timestamp"
+    }, 
+    {
+      "value": "public-public-external", 
+      "key": "information_classification"
+    }, 
+    {
+      "value": "", 
+      "key": "internal_contact_point"
+    }, 
+    {
+      "value": "", 
+      "key": "investment_id"
+    }, 
+    {
+      "value": "", 
+      "key": "language"
+    }, 
+    {
+      "value": false, 
+      "key": "locked"
+    }, 
+    {
+      "value": "", 
+      "key": "methodology"
+    }, 
+    {
+      "value": "irakli-mchedlishvili", 
+      "key": "publisher"
+    }, 
+    {
+      "value": "", 
+      "key": "temporal_coverage"
+    }, 
+    {
+      "value": "", 
+      "key": "usage_notes"
+    }, 
+    {
+      "value": "public", 
+      "key": "visibility"
+    }
+  ], 
+  "visibility": "public"
+}
